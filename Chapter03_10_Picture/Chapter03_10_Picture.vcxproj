@@ -206,6 +206,7 @@
     <None Include="res\Chapter0310Picture.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\mfc_예제자료[1]\bitmap1.bmp" />
     <Image Include="..\MFC_예제자료[1]\Image.bmp" />
     <Image Include="..\MFC_예제자료[1]\JIN3.ICO" />
     <Image Include="res\Chapter03_10_Picture.ico" />

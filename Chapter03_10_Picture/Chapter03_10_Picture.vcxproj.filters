@@ -62,5 +62,8 @@
     <Image Include="..\MFC_예제자료[1]\JIN3.ICO">
       <Filter>리소스 파일</Filter>
     </Image>
+    <Image Include="..\mfc_예제자료[1]\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
   </ItemGroup>
 </Project>
